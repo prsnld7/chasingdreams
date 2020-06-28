@@ -1,0 +1,173 @@
+.top-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.bottom-container {
+  margin: 0;
+  background-color: #66BFBF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.middle-container {
+  background-color: #EAF6F6;
+  margin-top: 0;
+  padding-top: 50px;
+  line-height: 30px;
+}
+
+.contact-me {
+
+  padding-bottom: 50px;
+  line-height: 2;
+}
+
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color:#40514E;
+margin: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  margin: 100px auto;
+  border: dotted #40514E 6px;
+  width: 4%;
+  border-bottom: none;
+}
+
+p {
+  line-height: 2;
+}
+
+.Picture {
+  width: 170px;
+  height: 170px;
+  border-radius: 200px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill1 {
+  border-radius: 150px;
+  float: left;
+  height: 150px;
+  width: 30%;
+  margin-right: 30px;
+}
+
+.descrip {
+  color: #40514E;
+}
+
+.mid {
+  color: #40514E;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.socskill {
+  float: right;
+  margin-left: 30px;
+  height: 150px;
+  border-radius: 150px;
+  width: 25%;
+}
+
+.begi {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.topcloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+  padding-top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: auto;
+}
+
+.skill-row {
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+
+}
+
+.BUTTON_VCB {
+	box-shadow:inset 0 0 0 2px #66bfbf;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#66bfbf;
+	border-radius:8px;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: Montserrat;
+	font-size:10px;
+	padding:12px 37px;
+	text-decoration: none;
+	text-shadow:0 1px 0 #66bfbf;
+}
+.BUTTON_VCB:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+}
+
+.BUTTON_VCB:active {
+	position:relative;
+	top:1px;
+}
